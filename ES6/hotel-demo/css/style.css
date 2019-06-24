@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    background-color: #dedede;
+    color: #333;
+    padding: 20px 0 28px 0;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.clear {
+    clear: both;
+}
+.container {
+    max-width: 1025px;
+    margin: 0px auto;
+}
+#filters, #listing {
+    float: left;
+}
+#filters {
+    width: 30%;
+    margin-top: 130px;
+}
+#listing {
+    width: 70%;
+}
+#filters ul {
+    padding-left: 0px;
+}
+.heading, .sub-heading {
+    text-align: center;
+}
+.app-title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 2.6rem;
+}
+
+.property {
+    max-width: 650px;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.property-type {
+    text-transform: capitalize;
+}
+
+.property h4 {
+    margin: 0 0 6px 0;
+}
+
+.property-photo {
+    float: left;
+    width: 40%;
+    margin-right: 15px;
+}
+
+.property-name {
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 0 0 1rem 0;
+}
+
+.species {
+    font-size: 0.9rem;
+    color: #888;
+    vertical-align: middle;
+}
+
+.foods-list {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 17px;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.footer {
+    font-size: 1rem;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}

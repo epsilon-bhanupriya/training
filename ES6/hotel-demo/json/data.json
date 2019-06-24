@@ -1,0 +1,92 @@
+[
+  {
+    "propertyId": 1,
+    "propertyName": "The LaLiT Golf & Spa Resort Goa Opens in new window",
+    "description": "Experience world-class service at The LaLiT Golf & Spa Resort Goa",
+    "price": 5086,
+    "starRating": 4,
+    "imageUrl": "images/1.jpg",
+    "propertyType": "resort"
+  },
+  {
+    "propertyId": 2,
+    "propertyName": "Planet Hollywood Beach Resort Goa Opens in new window",
+    "description": "Offering an outdoor swimming pool and a fitness centre, Planet Hollywood Beach Resort Goa is located on the Uttorda Beach.",
+    "price": 6500,
+    "starRating": 4,
+    "imageUrl": "images/2.jpg",
+    "propertyType": "resort"
+  },
+  {
+    "propertyId": 3,
+    "propertyName": "Noel Guest House",
+    "description": "Located in Marmagao, Noel Guest House provides air-conditioned rooms with free WiFi. Among the various facilities are a garden and a terrace. The accommodation features a 24-hour front desk, and currency exchange for guests.",
+    "price": 4500,
+    "starRating": 3,
+    "imageUrl": "images/8.jpg",
+    "propertyType": "homestay"
+  },
+  {
+    "propertyId": 4,
+    "propertyName": "2-BR apartment for 6 with a pool",
+    "description": "2-BR apartment for 6 with a pool is set in Serula. The air-conditioned accommodation is 11 km from Candolim.",
+    "price": 2812,
+    "starRating": 2,
+    "imageUrl": "images/4.jpg",
+    "propertyType": "apartment"
+  },
+  {
+    "propertyId": 5,
+    "propertyName": "Amrapali-House of Grace",
+    "description": "Set in Bambolim, Amrapali-House of Grace features an outdoor swimming pool, a terrace and a shared lounge. Providing a restaurant, the property also has a bar. The property offers a 24-hour front desk and free WiFi is available.",
+    "price": 6750,
+    "starRating": 2,
+    "imageUrl": "images/5.jpg",
+    "propertyType": "homestay"
+  },
+  {
+    "propertyId": 6,
+    "propertyName": "Bay Terraces by Vista Rooms",
+    "description": "Boasting a fitness centre, a shared lounge, and a terrace, Bay Terraces by Vista Rooms features accommodation in Marmagao with free WiFi and pool views. The air-conditioned accommodation is 33 km from Candolim.",
+    "price": 11000,
+    "starRating": 5,
+    "imageUrl": "images/6.jpg",
+    "propertyType": "hotel"
+  },
+  {
+    "propertyId": 7,
+    "propertyName": "OYO 12647 Swarnam",
+    "description": "Featuring a terrace, OYO 12647 Swarnam is located in Old Goa, a 20-minute walk from Viceroy’s Arch. Popular points of interest nearby include Se Cathedral and Church of St Francis of Assisi. Free WiFi is available and in-house parking is provided.",
+    "price": 2500,
+    "starRating": 2,
+    "imageUrl": "images/7.jpg",
+    "propertyType": "homestay"
+  },
+  {
+    "propertyId": 8,
+    "propertyName": "Radisson Blu Resort, Goa",
+    "description": "Located on Cavelossim Beach in Goa, Radisson Blu Resort features Goan-Portuguese-inspired architecture with bright exterior colours. Its offers rooms with free Wi-Fi and a free-form outdoor pool, spa and fitness centre.",
+    "price": 5525,
+    "starRating": 5,
+    "imageUrl": "images/8.jpg",
+    "propertyType": "resort"
+  },
+  {
+    "propertyId": 9,
+    "propertyName": "La Grace Resort",
+    "description": "Offering an outdoor swimming pool, a fitness centre and a spa and wellness centre, La Grace Resort is located in Benaulim. Free WiFi access is available in the public areas of this resort.",
+    "price": 2880,
+    "starRating": 1,
+    "imageUrl": "images/9.jpg",
+    "propertyType": "resort"
+  },
+  {
+    "propertyId": 10,
+    "propertyName": "FabExpress Horizon Shalom Porvorim",
+    "description": "FabExpress Horizon Shalom Porvorim is offering accommodation in Porvorim. With free WiFi, this 3-star hotel offers a 24-hour front desk and room service. The property is non-smoking and is situated 1.9 km from Mall De Goa.",
+    "price": 3500,
+    "starRating": 4,
+    "imageUrl": "images/10.jpg",
+    "propertyType": "hotel"
+  }
+]

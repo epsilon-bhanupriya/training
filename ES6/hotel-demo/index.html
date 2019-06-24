@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>ES6</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="css/style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="container">
+        <div id="filters">
+            <p><b>Filter By:</b></p>
+            <div class="star-rating">
+                <label><b>Star rating</b></label>
+                <ul id="filters_rating" style="list-style:none;">
+                    <li>
+                        <input type="checkbox" value="1" id="one" onClick="listing.filter(1, 'one');">
+                        <label for="one">1 star +</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="2" id="two" onClick="listing.filter(2, 'two');">
+                        <label for="two">2 star +</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="3" id="three" onClick="listing.filter(3, 'three');">
+                        <label for="three">3 star +</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="4" id="four" onClick="listing.filter(4, 'four');">
+                        <label for="four">4 star +</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="5" id="five" onClick="listing.filter(5, 'five');">
+                        <label for="three">5 star +</label>
+                    </li>
+                </ul>
+            </div>
+            <!--<div class="proprty-type">
+                <label><b>Property type</b></label>
+                <ul id="filters_property_type" style="list-style:none;">
+                    <li>
+                        <input type="checkbox" value="hotel" id="hotelId" onClick="listing.filter('hotel','hotelId')">
+                        <label for="hotelId">Hotel</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="resort" id="resortId" onClick="listing.filter('resort','resortId')">
+                        <label for="resortId">Resort</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="homestay" id="homestayId" onClick="listing.filter('home-stay','homestayId')">
+                        <label for="homestayId">Homestay</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" value="apartment" id="apartmentId" onClick="listing.filter('apartment','apartmentId')">
+                        <label for="apartmentId">Apartment</label>
+                    </li>
+                </ul>
+            </div>-->
+        </div>
+        <div id="listing"></div>
+        <div class="clear"></div>
+    </div>
+    
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <script type="text/javascript" src="src/app.js">
+    </script>
+</body>
+
+</html>
