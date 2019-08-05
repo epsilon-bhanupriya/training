@@ -1,0 +1,38 @@
+[
+  {
+    "productId": 1,
+    "productName": "Choco Truffle",
+    "productPrice": 400,
+    "productImage": "images/1.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "Red Velvet",
+    "productPrice": 500,
+    "productImage": "images/2.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Mango Gateux",
+    "productPrice": 500,
+    "productImage": "images/3.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Chocolate Truffle",
+    "productPrice": 550,
+    "productImage": "images/4.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Pineapple Rasmalai",
+    "productPrice": 700,
+    "productImage": "images/5.jpg"
+  },
+  {
+    "productId": 6,
+    "productName": "Black Forest",
+    "productPrice": 650,
+    "productImage": "images/1.jpg"
+  }
+]
